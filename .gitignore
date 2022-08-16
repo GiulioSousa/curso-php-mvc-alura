@@ -1,0 +1,11 @@
+vendor/bin/
+vendor/composer/
+vendor/doctrine/
+vendor/laravel/
+vendor/nyholm/
+vendor/php-di/
+vendor/php-http/
+vendor/psr/
+vendor/symfony/
+db.sqlite
+composer.lock
